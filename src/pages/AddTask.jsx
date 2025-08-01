@@ -1,0 +1,8 @@
+export default function AddTask() {
+    return (
+        <div>
+            <h1>Aggiungi Task</h1>
+            <p>Qui sta il form</p>
+        </div>
+    )
+}
